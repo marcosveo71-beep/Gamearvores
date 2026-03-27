@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Floresta Interativa 3D",
+  "description": "Uma floresta interativa 3D com sons de pássaros, árvores procedurais, nuvens e sol realista. Movimento em primeira pessoa com suporte a mobile e desktop.",
+  "requestFramePermissions": []
+}
